@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweet Dreams - Hoteles 5 Estrellas</title>
+    <link rel="stylesheet" href="estilos.css"> <!-- Enlace a un archivo CSS para el diseño -->
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Sweet Dreams</h1>
+        <nav>
+            <ul>
+                <li><a href="#ofertas">Ofertas y Planes</a></li>
+                <li><a href="#habitaciones">Habitaciones</a></li>
+                <li><a href="#eventos">Eventos</a></li>
+                <li><a href="#gastronomia">Restaurante / Gastronomía</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="ofertas">
+        <h2>Ofertas y Planes</h2>
+        <!-- Aquí puedes agregar información y detalles de las ofertas y planes -->
+    </section>
+
+    <section id="habitaciones">
+        <h2>Habitaciones</h2>
+        <!-- Aquí puedes agregar información sobre las habitaciones disponibles -->
+    </section>
+
+    <section id="eventos">
+        <h2>Eventos</h2>
+        <!-- Aquí puedes agregar información sobre eventos especiales o conferencias -->
+    </section>
+
+    <section id="gastronomia">
+        <h2>Restaurante / Gastronomía</h2>
+        <!-- Aquí puedes agregar información sobre los restaurantes y opciones gastronómicas -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Sweet Dreams - Hoteles 5 Estrellas</p>
+    </footer>
+</body>
+</html>
+
